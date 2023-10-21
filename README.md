@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinudya Amarasooriya</h1>
 <h3 align="center">A full-stack web developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **I'm following a full-stack web development course**
+- 🌱 I’m currently learning **a full-stack web development course**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
